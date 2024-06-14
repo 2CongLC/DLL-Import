@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cong-20-03-2024\\VBNet\\VLTK1 - 26042024 - Debug1\\VLTK1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD588CD-3BA1-42CB-89A1-BF3FD153BE4A}|VLTK1\\VLTK1.vbproj|d:\\cong-20-03-2024\\vbnet\\vltk1 - 26042024 - debug1\\vltk1\\vltk1\\kmemclass.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ACD588CD-3BA1-42CB-89A1-BF3FD153BE4A}|VLTK1\\VLTK1.vbproj|solutionrelative:vltk1\\kmemclass.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD588CD-3BA1-42CB-89A1-BF3FD153BE4A}|VLTK1\\VLTK1.vbproj|d:\\cong-20-03-2024\\vbnet\\vltk1 - 26042024 - debug1\\vltk1\\vltk1\\kmembase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ACD588CD-3BA1-42CB-89A1-BF3FD153BE4A}|VLTK1\\VLTK1.vbproj|solutionrelative:vltk1\\kmembase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD588CD-3BA1-42CB-89A1-BF3FD153BE4A}|VLTK1\\VLTK1.vbproj|D:\\Cong-20-03-2024\\VBNet\\VLTK1 - 26042024 - Debug1\\VLTK1\\vltk1\\engine.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ACD588CD-3BA1-42CB-89A1-BF3FD153BE4A}|VLTK1\\VLTK1.vbproj|solutionrelative:vltk1\\engine.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KMemBase.vb",
+              "DocumentMoniker": "D:\\Cong-20-03-2024\\VBNet\\VLTK1 - 26042024 - Debug1\\VLTK1\\VLTK1\\KMemBase.vb",
+              "RelativeDocumentMoniker": "VLTK1\\KMemBase.vb",
+              "ToolTip": "D:\\Cong-20-03-2024\\VBNet\\VLTK1 - 26042024 - Debug1\\VLTK1\\VLTK1\\KMemBase.vb",
+              "RelativeToolTip": "VLTK1\\KMemBase.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-02T02:36:59.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KMemClass.vb",
+              "DocumentMoniker": "D:\\Cong-20-03-2024\\VBNet\\VLTK1 - 26042024 - Debug1\\VLTK1\\VLTK1\\KMemClass.vb",
+              "RelativeDocumentMoniker": "VLTK1\\KMemClass.vb",
+              "ToolTip": "D:\\Cong-20-03-2024\\VBNet\\VLTK1 - 26042024 - Debug1\\VLTK1\\VLTK1\\KMemClass.vb",
+              "RelativeToolTip": "VLTK1\\KMemClass.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-02T02:36:54.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Engine.vb",
+              "DocumentMoniker": "D:\\Cong-20-03-2024\\VBNet\\VLTK1 - 26042024 - Debug1\\VLTK1\\VLTK1\\Engine.vb",
+              "RelativeDocumentMoniker": "VLTK1\\Engine.vb",
+              "ToolTip": "D:\\Cong-20-03-2024\\VBNet\\VLTK1 - 26042024 - Debug1\\VLTK1\\VLTK1\\Engine.vb",
+              "RelativeToolTip": "VLTK1\\Engine.vb",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-26T02:27:10.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

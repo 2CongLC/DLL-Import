@@ -1,0 +1,17 @@
+D:\Source VBNet_C#\GitHub\DLL-Import\src\bin\Debug\net8.0-windows\DLLImport.exe
+D:\Source VBNet_C#\GitHub\DLL-Import\src\bin\Debug\net8.0-windows\DLLImport.deps.json
+D:\Source VBNet_C#\GitHub\DLL-Import\src\bin\Debug\net8.0-windows\DLLImport.runtimeconfig.json
+D:\Source VBNet_C#\GitHub\DLL-Import\src\bin\Debug\net8.0-windows\DLLImport.dll
+D:\Source VBNet_C#\GitHub\DLL-Import\src\bin\Debug\net8.0-windows\DLLImport.pdb
+D:\Source VBNet_C#\GitHub\DLL-Import\src\obj\Debug\net8.0-windows\DLLImport.Form1.resources
+D:\Source VBNet_C#\GitHub\DLL-Import\src\obj\Debug\net8.0-windows\DLLImport.vbproj.GenerateResource.cache
+D:\Source VBNet_C#\GitHub\DLL-Import\src\obj\Debug\net8.0-windows\DLLImport.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source VBNet_C#\GitHub\DLL-Import\src\obj\Debug\net8.0-windows\DLLImport.AssemblyInfoInputs.cache
+D:\Source VBNet_C#\GitHub\DLL-Import\src\obj\Debug\net8.0-windows\DLLImport.AssemblyInfo.vb
+D:\Source VBNet_C#\GitHub\DLL-Import\src\obj\Debug\net8.0-windows\DLLImport.vbproj.CoreCompileInputs.cache
+D:\Source VBNet_C#\GitHub\DLL-Import\src\obj\Debug\net8.0-windows\DLLImport.sourcelink.json
+D:\Source VBNet_C#\GitHub\DLL-Import\src\obj\Debug\net8.0-windows\DLLImport.dll
+D:\Source VBNet_C#\GitHub\DLL-Import\src\obj\Debug\net8.0-windows\refint\DLLImport.dll
+D:\Source VBNet_C#\GitHub\DLL-Import\src\obj\Debug\net8.0-windows\DLLImport.pdb
+D:\Source VBNet_C#\GitHub\DLL-Import\src\obj\Debug\net8.0-windows\DLLImport.genruntimeconfig.cache
+D:\Source VBNet_C#\GitHub\DLL-Import\src\obj\Debug\net8.0-windows\ref\DLLImport.dll

@@ -1,0 +1,32 @@
+C:\Users\Administrator\Desktop\VBNet 1\VLTK1\VLTK1\bin\x86\Debug\net8.0-windows\VLTK1.exe
+C:\Users\Administrator\Desktop\VBNet 1\VLTK1\VLTK1\bin\x86\Debug\net8.0-windows\VLTK1.deps.json
+C:\Users\Administrator\Desktop\VBNet 1\VLTK1\VLTK1\bin\x86\Debug\net8.0-windows\VLTK1.runtimeconfig.json
+C:\Users\Administrator\Desktop\VBNet 1\VLTK1\VLTK1\bin\x86\Debug\net8.0-windows\VLTK1.dll
+C:\Users\Administrator\Desktop\VBNet 1\VLTK1\VLTK1\bin\x86\Debug\net8.0-windows\VLTK1.pdb
+C:\Users\Administrator\Desktop\VBNet 1\VLTK1\VLTK1\obj\x86\Debug\net8.0-windows\VLTK1.Form1.resources
+C:\Users\Administrator\Desktop\VBNet 1\VLTK1\VLTK1\obj\x86\Debug\net8.0-windows\VLTK1.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\VBNet 1\VLTK1\VLTK1\obj\x86\Debug\net8.0-windows\VLTK1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\VBNet 1\VLTK1\VLTK1\obj\x86\Debug\net8.0-windows\VLTK1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\VBNet 1\VLTK1\VLTK1\obj\x86\Debug\net8.0-windows\VLTK1.AssemblyInfo.vb
+C:\Users\Administrator\Desktop\VBNet 1\VLTK1\VLTK1\obj\x86\Debug\net8.0-windows\VLTK1.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\VBNet 1\VLTK1\VLTK1\obj\x86\Debug\net8.0-windows\VLTK1.dll
+C:\Users\Administrator\Desktop\VBNet 1\VLTK1\VLTK1\obj\x86\Debug\net8.0-windows\refint\VLTK1.dll
+C:\Users\Administrator\Desktop\VBNet 1\VLTK1\VLTK1\obj\x86\Debug\net8.0-windows\VLTK1.pdb
+C:\Users\Administrator\Desktop\VBNet 1\VLTK1\VLTK1\obj\x86\Debug\net8.0-windows\VLTK1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\VBNet 1\VLTK1\VLTK1\obj\x86\Debug\net8.0-windows\ref\VLTK1.dll
+D:\Cong-20-03-2024\VBNet\VLTK1 - 26042024 - Debug1\VLTK1\VLTK1\bin\x86\Debug\net8.0-windows\VLTK1.exe
+D:\Cong-20-03-2024\VBNet\VLTK1 - 26042024 - Debug1\VLTK1\VLTK1\bin\x86\Debug\net8.0-windows\VLTK1.deps.json
+D:\Cong-20-03-2024\VBNet\VLTK1 - 26042024 - Debug1\VLTK1\VLTK1\bin\x86\Debug\net8.0-windows\VLTK1.runtimeconfig.json
+D:\Cong-20-03-2024\VBNet\VLTK1 - 26042024 - Debug1\VLTK1\VLTK1\bin\x86\Debug\net8.0-windows\VLTK1.dll
+D:\Cong-20-03-2024\VBNet\VLTK1 - 26042024 - Debug1\VLTK1\VLTK1\bin\x86\Debug\net8.0-windows\VLTK1.pdb
+D:\Cong-20-03-2024\VBNet\VLTK1 - 26042024 - Debug1\VLTK1\VLTK1\obj\x86\Debug\net8.0-windows\VLTK1.Form1.resources
+D:\Cong-20-03-2024\VBNet\VLTK1 - 26042024 - Debug1\VLTK1\VLTK1\obj\x86\Debug\net8.0-windows\VLTK1.vbproj.GenerateResource.cache
+D:\Cong-20-03-2024\VBNet\VLTK1 - 26042024 - Debug1\VLTK1\VLTK1\obj\x86\Debug\net8.0-windows\VLTK1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cong-20-03-2024\VBNet\VLTK1 - 26042024 - Debug1\VLTK1\VLTK1\obj\x86\Debug\net8.0-windows\VLTK1.AssemblyInfoInputs.cache
+D:\Cong-20-03-2024\VBNet\VLTK1 - 26042024 - Debug1\VLTK1\VLTK1\obj\x86\Debug\net8.0-windows\VLTK1.AssemblyInfo.vb
+D:\Cong-20-03-2024\VBNet\VLTK1 - 26042024 - Debug1\VLTK1\VLTK1\obj\x86\Debug\net8.0-windows\VLTK1.vbproj.CoreCompileInputs.cache
+D:\Cong-20-03-2024\VBNet\VLTK1 - 26042024 - Debug1\VLTK1\VLTK1\obj\x86\Debug\net8.0-windows\VLTK1.dll
+D:\Cong-20-03-2024\VBNet\VLTK1 - 26042024 - Debug1\VLTK1\VLTK1\obj\x86\Debug\net8.0-windows\refint\VLTK1.dll
+D:\Cong-20-03-2024\VBNet\VLTK1 - 26042024 - Debug1\VLTK1\VLTK1\obj\x86\Debug\net8.0-windows\VLTK1.pdb
+D:\Cong-20-03-2024\VBNet\VLTK1 - 26042024 - Debug1\VLTK1\VLTK1\obj\x86\Debug\net8.0-windows\VLTK1.genruntimeconfig.cache
+D:\Cong-20-03-2024\VBNet\VLTK1 - 26042024 - Debug1\VLTK1\VLTK1\obj\x86\Debug\net8.0-windows\ref\VLTK1.dll
